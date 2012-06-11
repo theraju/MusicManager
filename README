@@ -1,0 +1,1 @@
+MusicManager is a project to help dance schools share their proprietary music with each other. Dance schools that compose their own music want a secure location to upload it to. The music should not be accessible to the general public since its copyrighted. MusicManager lets them upload the music securely to a backend store, and control access to it.
